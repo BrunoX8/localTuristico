@@ -72,12 +72,11 @@ ul li::marker {
 
 footer {
     text-align: center;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
+    padding: 40px 48px;
 }
 
 footer img {
+    vertical-align: middle;
     width: 20px;
     height: 20px;
     margin: 0 5px;
